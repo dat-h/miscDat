@@ -1,2 +1,2 @@
 # miscDat
-Miscellaneous functions to make my life easier
+Miscellaneous R functions to make my life easier
